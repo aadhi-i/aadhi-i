@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning  Flutter, just Started</p>
+<p align="left">📚 I'm currently learning  Python</p>
 
 ###
 
