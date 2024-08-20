@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I am a 20 year old  Aspiring Developer from Kerala. I have only started working on Projects since  recently, maybe a 6 months or so.<br>Now slowly building up my experience on the development side.</p>
+<p align="left">I am a 21 year old  Aspiring Developer. I have only started working on Projects since  recently.<br>Now slowly building up my experience on the development side.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning  Python</p>
+<p align="left">📚 I'm currently learning  Data Structures and Algorithms using Java</p>
 
 ###
 
