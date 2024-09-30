@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I am Adithya S Nair</h1>
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-
+<h1 align="center">Hi, I am Adithya S Nair</h1>
 
 ###
 
