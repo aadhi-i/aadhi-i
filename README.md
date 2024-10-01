@@ -1,25 +1,23 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi, I am Adithya S Nair</h1>
+
 
 <p align="center">
   <a href="https://aadhi-i.github.io/Portfolio/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/adithya-s-nair-63153626b">LinkedIn</a> - 
   <a href="https://x.com/adithyasnair33?t=sg-79s_7Iojjn2wJQvkTig&s=09">Twitter</a> -
   <a href="https://aadhi-i.github.io/Portfolio/#contact">Contact me</a> 
-</p>
+</p><br><br><hr>
 
-###
+### About
 
------------------------------------------------------------
 👨🏻‍💻 **About Me**
 ✨ Django Fullstack Developer | Open Source Contributor <br>
 ⚡ Check my ✨ [Website](https://aadhi-i.github.io/Portfolio/) <br>
 💬 Ask me about Web development | DSA <br><br>
-###
 
-<h2 align="left">Tools & Tech Stack I use </h2>
 
-###
+### Tools & Tech Stack I use
+<hr>
 
 <div align="left">
   
@@ -56,6 +54,7 @@
 <br><br><br>
 
 ### My Stats
+<hr>
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=aadhi-i"></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadhi-i&theme=blue-green)](https://git.io/streak-stats)
