@@ -15,6 +15,10 @@
 ⚡ Check my ✨ [Website](https://aadhi-i.github.io/Portfolio/) <br>
 💬 Ask me about Web development | DSA <br><br>
 
+### Holopin Badges
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=aadhii)](https://holopin.io/@aadhii)
+<br><br>
+
 
 ### Tools & Tech Stack I use
 <hr>
