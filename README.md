@@ -16,7 +16,7 @@
 💬 Ask me about Web development | DSA <br><br>
 
 ### Holopin Badges
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=aadhii)](https://holopin.io/@aadhii)
+[![An image of @aadhii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadhii)](https://holopin.io/@aadhii)
 <br><br>
 
 
