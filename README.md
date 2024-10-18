@@ -60,7 +60,10 @@
 ### My Stats
 <hr>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=aadhi-i"></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadhi-i&theme=blue-green)](https://git.io/streak-stats)
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadhi-i&show_icons=true&theme=dark&locale=en" alt="aadhi-i" /></p>
+
+
 
 
