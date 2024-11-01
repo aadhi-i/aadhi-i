@@ -24,16 +24,16 @@
         <a href="">
           <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
-          <strong>GirlScript Summer of Code</strong>
+          <strong>GirlScript Summer of Code 2024 Extended</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 410</span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 391</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 28,000+ participants<br>
           PRs Merged: 7<br>
           Total Badges: 6<br>
-          Total Score: 540<br>
+          Total Score: 560<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
