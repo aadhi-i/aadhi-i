@@ -13,7 +13,7 @@
 👨🏻‍💻 **About Me**
 ✨ Django Fullstack Developer | Open Source Contributor <br>
 ⚡ Checkout my ✨ [Portfolio](https://aadhi-i.github.io/Portfolio/) <br>
-💬 Ask me about Web development | DSA <br><br>
+💬 Ask me about Web development <br><br>
 
 ## :zap: Open Source Programs & Achievements
 
