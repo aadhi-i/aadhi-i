@@ -11,7 +11,7 @@
 ### About
 
 👨🏻‍💻 **About Me**
-✨ Django Fullstack Developer | Open Source Contributor <br>
+✨ Django Fullstack Developer | Open Source Contributor | MCA Student <br>
 ⚡ Checkout my ✨ [Portfolio](https://aadhi-i.github.io/Portfolio/) <br>
 💬 Ask me about Web development <br><br>
 
