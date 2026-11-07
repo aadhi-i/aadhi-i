@@ -8,11 +8,11 @@ Open Source Contributor & Mentor · GSSoC'24 · MCA Graduate
 
 <br>
 
-[Portfolio](https://aadhi-i.github.io/Portfolio/) &nbsp;·&nbsp;
-[Dev Store](https://aadhi-i.github.io/Dev-Store/) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/adithya-s-nair-63153626b) &nbsp;·&nbsp;
-[Twitter](https://x.com/adithyasnair33) &nbsp;·&nbsp;
-[Contact](https://aadhi-i.github.io/Portfolio/#contact)
+<a href="https://aadhi-i.github.io/Portfolio/"><img src="./nav-portfolio.svg" alt="Portfolio" width="140" /></a>
+<a href="https://aadhi-i.github.io/Dev-Store/"><img src="./nav-store.svg" alt="Dev Store" width="140" /></a>
+<a href="https://www.linkedin.com/in/adithya-s-nair-63153626b"><img src="./nav-linkedin.svg" alt="LinkedIn" width="140" /></a>
+<a href="https://x.com/adithyasnair33"><img src="./nav-twitter.svg" alt="Twitter" width="140" /></a>
+<a href="https://aadhi-i.github.io/Portfolio/#contact"><img src="./nav-contact.svg" alt="Contact" width="140" /></a>
 
 <img src="./quotes.svg" alt="Japanese proverbs" width="100%" />
 
